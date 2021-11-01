@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chris Grainger
 
-- 👀 I’m an MSci Chemical Physics student at the University of Bristol in the UK.
+- 👀 I’m an MSci Chemical Physics student at the University of Bristol
 
 - 🌱 I’m currently learning html, css, and python! 
 
