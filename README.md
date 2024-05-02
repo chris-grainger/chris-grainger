@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Chris Grainger
+- 👋 Hi, I’m Chris 
 
 - 👀 I’m a Chemical Physicist, incoming at NYU for my PhD in Chemistry
 
