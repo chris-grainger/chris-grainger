@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Chris Grainger
 
-- 👀 I’m a Chemical Physicist, currently looking for research positions 
+- 👀 I’m a Chemical Physicist, incoming at NYU for my PhD in Chemistry
 
-- 🌱 I’m learning python, c, and c++ at the moment
+- 🌱 I’m learning at the moment, specifically through CS50
 
-- 📫 Pop an email to chris.j.grainger@gmail.com if you'd like to reach out!
+- 📫 Pop an email to chris.grainger@nyu.edu if you'd like to reach out!
 
 
